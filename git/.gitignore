@@ -9,6 +9,7 @@ Thumbs.db
 *.swp
 .cache
 .idea
+.vscode
 .project
 .settings
 .tmproj
