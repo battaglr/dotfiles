@@ -14,6 +14,10 @@ Thumbs.db
 .settings
 .tmproj
 
+# Environments
+.env.local
+.env.*.local
+
 # Packages
 node_modules
 
